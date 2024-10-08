@@ -1,4 +1,4 @@
-package com.github.gymbuddy.domain.model.member;
+package com.github.gymbuddy.domain.member;
 
 import lombok.Getter;
 

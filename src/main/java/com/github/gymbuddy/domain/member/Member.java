@@ -1,4 +1,4 @@
-package com.github.gymbuddy.domain.model.member;
+package com.github.gymbuddy.domain.member;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 @Getter
 @Setter
 @ToString
-public class Members {
+public class Member {
 
     private Long id;
     private String name;

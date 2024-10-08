@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!--<mapper namespace="com.github.gymbuddy.domain.member.MemberMapper">-->
+<!--    <insert id="save" useGeneratedKeys="true" keyProperty="id">-->
+<!--        insert into member(-->
+<!--            name,email,phone,birthdate,gender,membership_type,join_date,profile_image,status,created_at,updated_at-->
+<!--        )-->
+<!--        values(-->
+<!--            #{name},#{email},#{phone},#{birthdate},#{gender},#{membershipType},#{joinDate},#{profileImage},#{status},#{createdAt},#{updatedAt}-->
+<!--        )-->
+<!--    </insert>-->
+
+<!--    <select id="findAll" resultType="Member">-->
+<!--        select-->
+<!--            id,name,email,phone,birthdate,gender,membership_type,join_date,profile_image,status,created_at,updated_at-->
+<!--        from-->
+<!--            member-->
+<!--    </select>-->
+<!--</mapper>-->
